@@ -1,0 +1,74 @@
+{
+	"root": "",
+	"title": "你好，css过滤",
+	"description": "关于css过滤，混合，蒙版，滤镜的相关知识点",
+	"author": "郑耿林",
+	"language": "zh-hans",
+	"links": {
+		"sidebar": {
+			"我的博客": "https://www.91temaichang.com"
+		}
+	},
+	"styles": {
+		"website": "styles/website.css"
+	},
+	"plugins": [
+		"-lunr",
+		"-search",
+		"back-to-top-button",
+		"custom-favicon",
+		"chapter-fold",
+		"code",
+		"donate",
+		"insert-logo",
+		"page-copyright",
+		"codepens",
+		"search-pro",
+		"pageview-count",
+		"seo"
+	],
+	"pluginsConfig": {
+		"favicon": "favicon.png",
+		"chapter-fold": {},
+		"code": {
+			"copyButtons": false
+		},
+		"donate": {
+			"wechat": "/donate/wechat_code.png",
+			"alypay": "/donate/alipay_code.png",
+			"button": "捐赠"
+		},
+		"insert-logo": {
+			"url": "/favicon.png",
+			"style": "background: none;"
+		},
+		"page-copyright": {
+			"description": "最新更新于",
+			"signature": "91temaichang.com",
+			"wisdom": "前端开发者、APP开发工程师、架构师、项目管理",
+			"format": "YYYY-MM-dd hh:mm:ss",
+			"copyright": "Copyright &#169; 郑耿林",
+			"timeColor": "#666",
+			"copyrightColor": "#666",
+			"utcOffset": "8",
+			"style": "normal",
+			"noPowered": true
+		},
+		"codepen": {
+			"height": 600,
+			"theme": 13200,
+			"description": "改造不一样的css",
+			"defaultTab": "html"
+		},
+		"page-toc-button": {
+			"maxTocDepth": 2,
+			"minTocSize": 2
+		},
+		"seo": {
+			"titlePrefix": "标题前缀-",
+			"titleSuffix": "-标题后缀",
+			"descriptionPrefix": "页面描述",
+			"keywords": "zhenggl, nodejs, javascript, v8, Node.js, node.js, webpack"
+		}
+	}
+}
