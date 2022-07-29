@@ -25,7 +25,8 @@
 		"codepens",
 		"search-pro",
 		"pageview-count",
-		"seo"
+		"seo",
+		"advanced-emoji"
 	],
 	"pluginsConfig": {
 		"favicon": "favicon.png",
