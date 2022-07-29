@@ -12,6 +12,7 @@
   "author": "郑耿林",
   "license": "ISC",
   "dependencies": {
+    "gitbook-plugin-advanced-emoji": "^0.2.2",
     "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
     "gitbook-plugin-ancre-navigation": "^1.0.0",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
