@@ -26,7 +26,8 @@
 		"search-pro",
 		"pageview-count",
 		"seo",
-		"advanced-emoji"
+		"advanced-emoji",
+		"devops"
 	],
 	"pluginsConfig": {
 		"favicon": "favicon.png",
@@ -70,6 +71,11 @@
 			"titleSuffix": "-标题后缀",
 			"descriptionPrefix": "页面描述",
 			"keywords": "zhenggl, nodejs, javascript, v8, Node.js, node.js, webpack"
+		},
+		"devops": {
+			"bd_token": "",
+			"google_search": "",
+			"google_analytics": ""
 		}
 	}
 }
