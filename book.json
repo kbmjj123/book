@@ -27,7 +27,8 @@
 		"pageview-count",
 		"seo",
 		"advanced-emoji",
-		"devops"
+		"devops",
+    "page-treeview-simple"
 	],
 	"pluginsConfig": {
 		"favicon": "favicon.png",
@@ -76,6 +77,10 @@
 			"bd_token": "",
 			"google_search": "",
 			"google_analytics": ""
+		},
+    "page-treeview-simple": {
+			"minHeaderCount": "2",
+			"minHeaderDeep": "2"
 		}
 	}
 }
